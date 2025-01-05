@@ -2,4 +2,14 @@ numpy
 pandas
 matplotlib
 Path
-logging
+scikit-learn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-pyYAML
+Flask
+Flask-Cors
+notebook
+-e .
